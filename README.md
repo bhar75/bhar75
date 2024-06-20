@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhar75
-- 👀 I’m interested in web apps
-- 🌱 I’m currently learning fullstack
+- 👀 I’m a web designer and web developer
 - 📫 How to reach me bharathi_n@msn.com
 
 <!---
